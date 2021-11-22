@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bluetooth Scanner</string>
+    <string name="ok">OK</string>
+    <string name="location_access_required">Location access is required.</string>
+    <string name="location_unavailable"><b>Location could not be opened.</b>\nThis occurs when the location is not available (for example it is already in use) or if the system has denied access (for example when location access has been disabled).</string>
+    <string name="location_permission_available">Location permission is available. Starting...</string>
+
+</resources>
